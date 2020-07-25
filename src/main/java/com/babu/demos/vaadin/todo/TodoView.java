@@ -1,4 +1,4 @@
-package com.babu.vaadin;
+package com.babu.demos.vaadin.todo;
 
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;

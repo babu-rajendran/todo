@@ -1,4 +1,4 @@
-package com.babu.vaadin;
+package com.babu.demos.vaadin.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

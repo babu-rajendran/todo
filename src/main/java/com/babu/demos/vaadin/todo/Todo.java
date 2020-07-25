@@ -1,4 +1,4 @@
-package com.babu.vaadin;
+package com.babu.demos.vaadin.todo;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
