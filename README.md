@@ -1,3 +1,5 @@
+YouTube video link for this project : https://www.youtube.com/watch?v=v8SwUUWSWG8&t=2913s
+
 # Project Base for Vaadin and Spring Boot
 
 This is an example project that can be used as a starting point to create your own Vaadin application with Spring Boot.
@@ -49,8 +51,9 @@ If you would like to run a separate test make sure you have added these paramete
 Project follow the Maven's [standard directory layout structure](https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html):
 - Under the `srs/main/java` are located Application sources
    - `Application.java` is a runnable Java application class and a starting point
-   - `GreetService.java` is a  Spring service class
-   - `MainView.java` is a default view and entry point of the application
+   - `Todo.java` is the model class
+   - `TodoRepository.java` is a  Spring JPA repository class
+   - `TodoView.java` is a default view and entry point of the application
 - Under the `srs/test` are located test files
 - `src/main/resources` contains configuration files and static resources
 - The `frontend` directory in the root folder contains client-side dependencies and resource files
